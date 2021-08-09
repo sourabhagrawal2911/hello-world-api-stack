@@ -26,7 +26,7 @@ Parameters:
   ApiGatewayEndpointConfiguration:
     Description: 'Rest API Endpoint Type'
     Type: String
-    Default: 'REGIONAL'
+    Default: 'EDGE'
     AllowedValues: ['REGIONAL', 'EDGE']
   ApiGatewayResourcePathPart:
     Description: 'Path name for the API Gateway resource'
