@@ -111,7 +111,7 @@ Resources:
       HttpMethod: GET
       Integration:
         Type: AWS
-        IntegrationHttpMethod: GET
+        IntegrationHttpMethod: POST
         Uri:
           !Join
             - ''
