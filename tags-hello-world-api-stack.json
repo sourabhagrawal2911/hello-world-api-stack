@@ -1,0 +1,14 @@
+[
+  {
+    "Key": "appication",
+    "Value": "hello-world"
+  },
+  {
+    "Key": "environment",
+    "Value": "dev"
+  },
+  {
+    "Key": "data-classification",
+    "Value": "public"
+  }
+]
