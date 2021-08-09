@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "BackEndLambdaFunctionStackName",
+    "ParameterValue": "lamba-function"
+  },
+  {
+    "ParameterKey": "ResourcePathPart",
+    "ParameterValue": "hello"
+  },
+  {
+    "ParameterKey": "ApiGatewayStageName",
+    "ParameterValue": "dev"
+  }
+]
