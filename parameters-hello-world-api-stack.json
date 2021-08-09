@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "ManagedPolicyArns",
+    "ParameterValue": "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  },
+  {
+    "ParameterKey": "ApiGatewayResourcePathPart",
+    "ParameterValue": "hello"
+  },
+  {
+    "ParameterKey": "ApiGatewayStageName",
+    "ParameterValue": "dev"
+  }
+]
